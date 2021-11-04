@@ -8,8 +8,8 @@ entries:
     digest: 384713e844dc3d926ab0e2f55487a2d74e5f4a3db0c896a01172f3f0fc733a88
     name: interoperator
     urls:
-    - https://github.tools.sap/D066560/helm/releases/download/v0.18.0-for-v22/interoperator-v0.18.0-for-v22.tgz
-    version: 0.18.0
+    - https://github.com/Hariharan-Gandhi/helm1/releases/download/untagged-9603d74aa5cc4686fbce/interoperator-v0.18.0-for-v22.tgz
+    version: v0.18.0-for-v22
   - apiVersion: v2
     appVersion: 0.18.0
     created: "2021-11-04T10:08:31.251195+01:00"
@@ -17,6 +17,6 @@ entries:
     digest: 384713e844dc3d926ab0e2f55487a2d74e5f4a3db0c896a01172f3f0fc733a88
     name: interoperator
     urls:
-    - https://github.tools.sap/D066560/helm/releases/download/v0.18.0-for-v22/interoperator-v0.18.0-for-v22.tgz
+    - https://github.com/Hariharan-Gandhi/helm1/releases/download/untagged-9603d74aa5cc4686fbce/interoperator-v0.18.0-for-v22.tgz
     version: 0.18.0-for-v22
 generated: "2021-11-04T10:08:31.247113+01:00"
